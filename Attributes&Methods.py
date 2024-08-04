@@ -1,3 +1,5 @@
+# Attributes and Methods
+
 class PlayerCharacter:
     #Class object Attribute
     membership = True
